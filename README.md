@@ -1,4 +1,4 @@
-<h1>Graphical Reddit Sentiment Analysis with NLTK</h1>
+<h1>Graphical Reddit Opinion Miner with NLTK</h1>
 
 <h3>Table of Content:</h3>
 <ul>
@@ -11,7 +11,7 @@
 
 
 <h3>Overview</h3>
-<p>In this project i have performend Reddit Sentiment Analysis with NLTK and visualized the result using a graph.</p>
+<p>In this project i have performend Reddit Opinion Mining with NLTK and visualized the result using a graph.</p>
 
 <h4>1.1 NLP</h4>
 <p>Natural language processing (NLP) is a field within computer science and artificial intelligence that focuses on how computers interact with human languages, particularly in developing methods for processing and analyzing vast amounts of natural language data. It is a subset of machine learning dedicated to text analysis and predictive analytics.</p>
