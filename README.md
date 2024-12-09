@@ -21,7 +21,7 @@
 
 
 <h3>Motivation</h3>
-<p>Visualizations tend to have a stronger impact than words alone, making them easier to grasp and understand. Reading blogs also plays a significant role in learning, as it helps you discover new concepts and technologies. When I came across NLP, it immediately piqued my interest, and the idea of working on it struck me. What really caught my attention was visualizing live Twitter sentiment through graphs, which motivated me to start working on Reddit sentiment analysis.</p>
+<p>Visualizations tend to have a stronger impact than words alone, making them easier to grasp and understand. Reading blogs also plays a significant role in learning, as it helps you discover new concepts and technologies. When I came across NLP, it immediately piqued my interest, and the idea of working on it struck me. What really caught my attention was visualizing live Twitter sentiment through graphs, which motivated me to start working on Reddit opinion miner.</p>
 
 
 <h3>Steps for the project:</h3>
